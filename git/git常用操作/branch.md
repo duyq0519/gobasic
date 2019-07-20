@@ -23,12 +23,6 @@ git branch -d   branch_name
 git branch --delete  branch_name
 ```
 
-- 删除远程分支
-```
-git branch -d --remote branch_name
-git branch --delete --remote branch_name
-```
-
 - 分支重命名
 ```
 git branch -m old_name new_name
