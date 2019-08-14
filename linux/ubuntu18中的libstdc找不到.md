@@ -1,7 +1,13 @@
-cannot find libstdc
+# Linux提示 /usr/bin/ld:cannot find-lxxx 系列解决方法
+
+## 找不到可能的原因
+
+## 安装libstdc
+
 
 找不到的可能种类
 https://blog.csdn.net/yiliang_/article/details/68928387
+
 
 
 安装libstdc
@@ -12,5 +18,3 @@ https://blog.csdn.net/u013830021/article/details/51781240
 
 find . -name '*.txt'
 
-换源
-https://blog.csdn.net/qq_35451572/article/details/79516563
