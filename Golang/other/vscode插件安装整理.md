@@ -4,6 +4,26 @@
 ## 背景 
 vscode算是微软出品的比较良心的产品，轻量级，界面漂亮，插件丰富，支持很多语言的开发。我就使用vscode开发Golang，但是由于我们的网络被"qiang"了，没办法和顺滑的安装插件，但是谷歌的大神们还是给出了办法。
 
+## golang.org/x 重要的包
+如果能翻墙，将下面的包全部下载下来
+```
+go get golang.org/x/crypto
+go get golang.org/x/exp
+go get golang.org/x/image
+go get golang.org/x/mobile
+go get golang.org/x/review
+go get golang.org/x/sync
+go get golang.org/x/sys
+go get golang.org/x/talks
+go get golang.org/x/text
+go get golang.org/x/time
+go get golang.org/x/blog
+go get golang.org/x/lint
+go get golang.org/x/mod
+go get golang.org/x/net
+go get golang.org/x/tools
+go get golang.org/x/xerrors
+```
 
 ## 插件工具
 首先安装插件
